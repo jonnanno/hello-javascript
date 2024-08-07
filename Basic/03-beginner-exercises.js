@@ -81,11 +81,11 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 
- //   const myString = "hola"
- //   const myNumber = 1
- //   const myBoolean = true
- //   const myUndefined = undefined
- //   const myNull = null
+    const myString = "hola"
+    const myNumber = 1
+    const myBoolean = true
+    const myUndefined = undefined
+    const myNull = null
  //   const mySymbol = Symbol("mi simbolo")
  //   const myBigNumber = BigInt(1n)
 

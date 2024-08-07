@@ -6,10 +6,66 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 // 1. Crea una variable para cada operación aritmética
 
+let a = 10;
+let b = 3;
+let c = 10;
+
+let i = a + b;
+console.log(i);
+
+i = a - b;
+console.log(i);
+
+i = a * b;
+console.log(i);
+
+i = a / b;
+console.log(i);
+
+i = a % b;
+console.log(i);
+
+i = a ** b;
+console.log(i);
+
+b++;
+console.log(b);
+
+c--
+console.log(c);
+
+
+
 // 2. Crea una variable para cada tipo de operación de asignación,
 //    que haga uso de las variables utilizadas para las operaciones aritméticas
 
+c = 2
+console.log(c)
+
+c+= 3
+console.log(c)
+
+c -= 2
+console.log(c)
+
+c *= 2
+console.log(c)
+
+c /= 2
+console.log(c)
+
+c=4
+c %= 2
+console.log(c)
+
+c=10
+c **= 2 
+console.log(c)
+
+
 // 3. Imprime 5 comparaciones verdades con diferentes operadores de comparación
+
+
 
 // 4. Imprime 5 comparaciones falsas con diferentes operadores de comparación
 
