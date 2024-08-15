@@ -92,6 +92,7 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 // 9. A continuación, modifica los valores de las constantes
 
+<<<<<<< HEAD
  //   const myString = "adios"
  //   const myNumber = "1"
  //   const myBoolean = "true"
@@ -103,3 +104,6 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
+=======
+// 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
+>>>>>>> f16a9f072ab5a9d350963c6d4fc17543169926b7

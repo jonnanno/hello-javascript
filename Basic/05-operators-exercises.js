@@ -66,17 +66,48 @@ console.log(c)
 // 3. Imprime 5 comparaciones verdades con diferentes operadores de comparación
 
 
+console.log( 10 == '10' )
+console.log( 10 >= 9 )
+console.log( 10 <= 11 )
+console.log( 10 != 9  )
+console.log( 10 === 10  )
+
 
 // 4. Imprime 5 comparaciones falsas con diferentes operadores de comparación
 
+console.log( 10 === '10' )
+console.log( 10 < 9 )
+console.log( 10 >= 11 )
+console.log( 10 == 9  )
+console.log( 10 != 10  )
+
 // 5. Utiliza el operador lógico and
+
+a=1
+b=2
+c=3
+
+console.log(a < b && a < c)
+console.log(a < b && a > c)
+
 
 // 6. Utiliza el operador lógico or
 
+console.log(a < b || a > c)
+console.log(a < b || a < c)
+console.log(a > b || a > c)
+
 // 7. Combina ambos operadores lógicos
 
+console.log(a < b || a > c)
+
 // 8. Añade alguna negación
+console.log(a < b && !(a < c))
 
 // 9. Utiliza el operador ternario
 
+console.log( a > b ? "a es mayor que b" : "a es menor que b" )
+
 // 10. Combina operadores aritméticos, de comparáción y lógicas
+
+console.log( !(a+b > a+c) && b+c > b+a )
