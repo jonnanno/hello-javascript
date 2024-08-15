@@ -6,7 +6,19 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 // 1. Concatena dos cadenas de texto
 
+myString1= "hola, "
+myString2= "Jhonnatan"
+
+myString= myString1 + myString2
+
+console.log(myString1)
+console.log(myString2)
+console.log(myString)
+
+
 // 2. Muestra la longitud de una cadena de texto
+
+console.log(myString.length)
 
 // 3. Muestra el primer y último carácter de un string
 
