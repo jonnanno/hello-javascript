@@ -8,6 +8,10 @@ https://www.youtube.com/live/xg1GeHKiNzU?si=oiWHK8bDTZ1c98hF&t=885
 
 // 1. Crea una función que reciba dos números y devuelva su suma
 
+function suma(a, b){
+  return (a + b)
+}
+
 // 2. Crea una función que reciba un array de números y devuelva el mayor de ellos
 
 // 3. Crea una función que reciba un string y devuelva el número de vocales que contiene
